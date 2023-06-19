@@ -50,7 +50,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=yaskisoba&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
