@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="400" src="https://github.com/yaskisoba/yaskisoba/blob/a453ea605b2194a5e861348db8850c12e5cb6148/octocat-1687193814305.png"  />
+<img align="right" height="390" src="https://github.com/yaskisoba/yaskisoba/blob/a453ea605b2194a5e861348db8850c12e5cb6148/octocat-1687193814305.png"  />
 
 ###
 
